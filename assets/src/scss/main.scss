@@ -1,0 +1,21 @@
+/* Main CSS */
+
+// Import Fonts
+@import "font";
+
+// Global Variables
+@import "variables-effects";
+@import "common-variables";
+@import 'common/main';
+
+// Reset
+@import "reset";
+
+// Base CSS
+@import "base";
+@import "parts/grid-layouts";
+
+
+// Import form validation
+@import "modules/FormValidation/main";
+

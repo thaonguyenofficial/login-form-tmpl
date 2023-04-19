@@ -1,0 +1,15 @@
+/***************************************************
+  Media queries for responsive design
+****************************************************/
+
+
+
+@media (min-width: $media-breakpoint-md) {
+  @import "breakpoints/md/common";
+}
+
+
+@media (min-width: $media-breakpoint-lg) {
+  @import "breakpoints/lg/common";
+}
+

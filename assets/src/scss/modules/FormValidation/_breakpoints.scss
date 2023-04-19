@@ -1,0 +1,14 @@
+/***************************************************
+  Media queries for responsive design
+  Name: Phuc Nguyen
+  Gmail: manhphucofficial@gmail.com
+  Phone: 0909699118
+****************************************************/
+
+@media (min-width: $media-breakpoint-md) {
+  @import "breakpoints/md/common";
+}
+
+@media (min-width: $media-breakpoint-lg) {
+  //@import "breakpoints/lg/files-name.scss";
+}
